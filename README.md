@@ -15,7 +15,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://www.pngwing.com/ru/free-png-xiyjo.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/865/204/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-computer-icons-others-text-rectangle-logo.png"></code>
 * <code><img height="20" src="https://www.starburst.io/wp-content/uploads/2021/04/Tableau_Logo_transparent.png"></code>
 
 🚧 **My tasks for the near future::**
