@@ -21,7 +21,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 🚧 **My tasks for the near future::**
 <!-- TODO-IST:START -->
-* [ ] Take a course on DA on Karpov.Courses
+* [X] Take a course on DA on Karpov.Courses
 * [ ] Take a course on DE on Karpov.Courses
 * [ ] Take a course on DE on DataLearn
 <!-- TODO-IST:END -->
