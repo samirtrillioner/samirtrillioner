@@ -22,6 +22,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 🚧 **My tasks for the near future::**
 <!-- TODO-IST:START -->
 * [X] Take a course on DA on Karpov.Courses
+* [X]([http://url/to/img.png](https://drive.google.com/drive/folders/1n6_z6DGb4ld73lvnTgVB2m_xUUuYiDjf))
 * [ ] Take a course on DE on Karpov.Courses
 * [ ] Take a course on DE on DataLearn
 <!-- TODO-IST:END -->
