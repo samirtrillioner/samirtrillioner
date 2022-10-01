@@ -11,7 +11,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 <br />
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 * <code><img height="20" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3BDMK?ver=f040&q=100&h=75&w=75&b=%23FFFFFFFF&aim=true"></code>
 <code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg"></code>
@@ -23,7 +23,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 * <code><img height="20" src="https://www.starburst.io/wp-content/uploads/2021/04/Tableau_Logo_transparent.png"></code>
 
-🚧 **My tasks for the near future::**
+🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [X] Take a course on [DA on Karpov.Courses](https://karpov.courses/analytics)
 <img width="500" alt="Снимок экрана 2022-07-31 в 21 38 14" src="https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png">
