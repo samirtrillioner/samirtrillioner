@@ -25,7 +25,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 <img width="840" alt="Снимок экрана 2022-07-31 в 21 38 14" src="https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png">
 
 * [ ] Take a course on DE on DataLearn
-* [ ] Take a course on BIDA on Corporate Finance Institute
+* [ ] Take a course on BIDA® on Corporate Finance Institute
 * [ ] Take a course on DE on Karpov.Courses
 <!-- TODO-IST:END -->
 
