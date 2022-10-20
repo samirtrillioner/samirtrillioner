@@ -31,6 +31,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 * [ ] Take a course on [DE on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)
 * [ ] Take a course on [BIDA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
 * [ ] Take a course on [DE on Karpov.Courses](https://karpov.courses/dataengineer)
+* [ ] Take a course on [DE/DA/ML/SQL on Datacamp](https://app.datacamp.com/learn)
 <!-- TODO-IST:END -->
 
 
