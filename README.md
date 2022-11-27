@@ -34,17 +34,18 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [X] **[Data Analyst on Karpov.Courses](https://karpov.courses/analytics)**
+* [X] **[Take a course on Data Analyst on Karpov.Courses](https://karpov.courses/analytics)**
  > * [Сertificate](https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png)
  > * [Projects](https://github.com/samirtrillioner/DA_karpov_corses)
 
-* [ ] **[Data Engineering on Karpov.Courses](https://karpov.courses/dataengineer)**
+* [ ] **[Take a course on Data Engineering on Karpov.Courses](https://karpov.courses/dataengineer)**
  > * Сertificate
  > * [Projects](https://github.com/samirtrillioner/DE_karpov_courses/blob/main/README.md)
 
 
-* [ ] **[Data Engineering on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)**
-* [ ] **[BIDA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)**
+* [ ] **[Take a course on Data Engineering on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)**
+ > * [Projects](https://github.com/samirtrillioner/DE_datalearn_course)
+* [ ] **[Take a course on BIDA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)**
 
      > * [X] Take a [course](https://corporatefinanceinstitute.com/course/introduction-to-business-intelligence/) on [Introduction to Business Intelligence](https://www.credential.net/2a794de5-eb93-4f95-a922-dc11d67a0d23)
      > * [X] Take a [course](https://corporatefinanceinstitute.com/course/statistics-fundamentals/) on [Statistics Fundamentals](https://www.credential.net/7aef4b49-5d00-47e0-9aee-3ee4cd59855e)
@@ -52,7 +53,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
      > * [X] Take a [course](https://corporatefinanceinstitute.com/course/data-science-and-machine-learning/) on [Data Science and Machine Learning Fundamentals](https://www.credential.net/a1e3f51e-30c7-44e0-b34d-67e5000d2046)
 
 
-* [ ] **[Datacamp. Finance Fundamentals in Python](https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1)**
+* [ ] **[Take a course on Datacamp. Finance Fundamentals in Python](https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1)**
  
      > * [X] Take a [course](https://app.datacamp.com/learn/courses/introduction-to-python-for-finance) on [Introduction to Python for Finance](https://www.datacamp.com/statement-of-accomplishment/course/5261c97b0be026dc321927bdf167aecda22972c9)
      > * [X] Take a [course](https://app.datacamp.com/learn/courses/intermediate-python-for-finance) on [Intermediate Python for Finance](https://www.datacamp.com/statement-of-accomplishment/course/c9626a06e790c6d158c475eba22b7f8503a5c6dd)
