@@ -48,13 +48,16 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
      > * [X] Take a [course](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/) on [Excel Fundamentals – Formulas for Finance](https://www.credential.net/0c6c72c5-49c7-45ff-848c-4c494b12ea24)
      > * [X] Take a [course](https://corporatefinanceinstitute.com/course/data-science-and-machine-learning/) on [Data Science and Machine Learning Fundamentals](https://www.credential.net/a1e3f51e-30c7-44e0-b34d-67e5000d2046)
 
-* [ ] **[DE/DA/ML/SQL/Python on Datacamp](https://app.datacamp.com/learn)**
-  - [X] [Finance Fundamentals in Python](https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1)
+
+* [ ] **[Datacamp. Finance Fundamentals in Python](https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1)**
+ 
      > * [X] Take a [course](https://app.datacamp.com/learn/courses/introduction-to-python-for-finance) on [Introduction to Python for Finance](https://www.datacamp.com/statement-of-accomplishment/course/5261c97b0be026dc321927bdf167aecda22972c9)
      > * [X] Take a [course](https://app.datacamp.com/learn/courses/intermediate-python-for-finance) on [Intermediate Python for Finance](https://www.datacamp.com/statement-of-accomplishment/course/c9626a06e790c6d158c475eba22b7f8503a5c6dd)
      > * [X] Take a [course](https://app.datacamp.com/learn/courses/introduction-to-financial-concepts-in-python) on [Introduction to Financial Concepts in Python](https://www.datacamp.com/statement-of-accomplishment/course/c025f86ccb4026873ffc4307bc7b2eb206235b98)
      > * [X] Take a [course](https://corporatefinanceinstitute.com/course/data-science-and-machine-learning/) on [Data Science and Machine Learning Fundamentals](https://www.credential.net/a1e3f51e-30c7-44e0-b34d-67e5000d2046)
-
+     > * [ ] Take a [course](https://app.datacamp.com/learn/courses/manipulating-time-series-data-in-python) on Manipulating Time Series Data in Python
+     > * [ ] Take a [course](https://app.datacamp.com/learn/courses/importing-and-managing-financial-data-in-python) on Importing and Managing Financial Data in Python
+     > * [ ] Take a [course](https://app.datacamp.com/learn/courses/introduction-to-portfolio-analysis-in-python) on Introduction to Portfolio Analysis in Python
 
 
 
