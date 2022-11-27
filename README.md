@@ -39,6 +39,10 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 * [ ] Take a course on [DE on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)
 * [ ] Take a course on [BIDA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+     * [X] Take a course on [Introduction to Business Intelligence](https://www.credential.net/2a794de5-eb93-4f95-a922-dc11d67a0d23)
+     * [X] Take a course on [Statistics Fundamentals](https://www.credential.net/7aef4b49-5d00-47e0-9aee-3ee4cd59855e)
+     * [X] Take a course on [Excel Fundamentals – Formulas for Finance](https://www.credential.net/0c6c72c5-49c7-45ff-848c-4c494b12ea24)
+     * [X] Take a course on [Data Science and Machine Learning Fundamentals](https://www.credential.net/a1e3f51e-30c7-44e0-b34d-67e5000d2046)
 * [ ] Take a course on [DE on Karpov.Courses](https://karpov.courses/dataengineer)
 * [ ] Take a course on [DE/DA/ML/SQL/Python on Datacamp](https://app.datacamp.com/learn)
 
