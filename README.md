@@ -35,9 +35,12 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [X] **[Data Analyst on Karpov.Courses](https://karpov.courses/analytics)**
-<img width="400" alt="Снимок экрана 2022-07-31 в 21 38 14" src="https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png">
+ > * [Сertificate](https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png)
+ > * [Projects](https://github.com/samirtrillioner/DA_karpov_corses)
 
 * [ ] **[Data Engineering on Karpov.Courses](https://karpov.courses/dataengineer)**
+ > * Сertificate
+ > * [Projects](https://github.com/samirtrillioner/DE_karpov_courses/blob/main/README.md)
 
 
 * [ ] **[Data Engineering on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)**
