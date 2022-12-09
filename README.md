@@ -4,7 +4,6 @@
 I like everything about **data and finance.**
 
 I study data analysis, data engineering, machine learning, financial analytics with great interest. 
-I am also interested in knowledge of the Java programming language in the field of software and application development.
 
 I will publish my projects on GitHub and  will be happy to share my ideas, projects with you.
 
@@ -17,7 +16,6 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 * <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/865/204/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-computer-icons-others-text-rectangle-logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/436/845/png-transparent-java-programming-language-computer-programming-programmer-logo-language-contact-text-logo-computer-science.png"></code>
 
 
 * <code><img height="20" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3BDMK?ver=f040&q=100&h=75&w=75&b=%23FFFFFFFF&aim=true"></code>
