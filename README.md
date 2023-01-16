@@ -43,27 +43,21 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 * [ ] **[Take a course on Data Engineering on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)**
  > * [Projects](https://github.com/samirtrillioner/DE_datalearn_course)
+
+
 * [ ] **[Take a course on BIDA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)**
+ > * Сertificate
+ > * Projects
 
-     > * [X] Take a [course](https://corporatefinanceinstitute.com/course/introduction-to-business-intelligence/) on [Introduction to Business Intelligence](https://www.credential.net/2a794de5-eb93-4f95-a922-dc11d67a0d23)
-     > * [X] Take a [course](https://corporatefinanceinstitute.com/course/statistics-fundamentals/) on [Statistics Fundamentals](https://www.credential.net/7aef4b49-5d00-47e0-9aee-3ee4cd59855e)
-     > * [X] Take a [course](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/) on [Excel Fundamentals – Formulas for Finance](https://www.credential.net/0c6c72c5-49c7-45ff-848c-4c494b12ea24)
-     > * [X] Take a [course](https://corporatefinanceinstitute.com/course/data-science-and-machine-learning/) on [Data Science and Machine Learning Fundamentals](https://www.credential.net/a1e3f51e-30c7-44e0-b34d-67e5000d2046)
-
-
-* [ ] **[Take a course on Datacamp. Finance Fundamentals in Python](https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1)**
- 
-     > * [X] Take a [course](https://app.datacamp.com/learn/courses/introduction-to-python-for-finance) on [Introduction to Python for Finance](https://www.datacamp.com/statement-of-accomplishment/course/5261c97b0be026dc321927bdf167aecda22972c9)
-     > * [X] Take a [course](https://app.datacamp.com/learn/courses/intermediate-python-for-finance) on [Intermediate Python for Finance](https://www.datacamp.com/statement-of-accomplishment/course/c9626a06e790c6d158c475eba22b7f8503a5c6dd)
-     > * [X] Take a [course](https://app.datacamp.com/learn/courses/introduction-to-financial-concepts-in-python) on [Introduction to Financial Concepts in Python](https://www.datacamp.com/statement-of-accomplishment/course/c025f86ccb4026873ffc4307bc7b2eb206235b98)
-     > * [X] Take a [course](https://corporatefinanceinstitute.com/course/data-science-and-machine-learning/) on [Data Science and Machine Learning Fundamentals](https://www.credential.net/a1e3f51e-30c7-44e0-b34d-67e5000d2046)
-     > * [ ] Take a [course](https://app.datacamp.com/learn/courses/manipulating-time-series-data-in-python) on Manipulating Time Series Data in Python
-     > * [ ] Take a [course](https://app.datacamp.com/learn/courses/importing-and-managing-financial-data-in-python) on Importing and Managing Financial Data in Python
-     > * [ ] Take a [course](https://app.datacamp.com/learn/courses/introduction-to-portfolio-analysis-in-python) on Introduction to Portfolio Analysis in Python
+* [ ] **[Take a course on FPWM™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)**
+ > * Сertificate
+ > * Projects
 
 
 
-
+* [ ] **[Take a course on FPWM™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)**
+ > * Сertificate
+ > * Projects
 <!-- TODO-IST:END -->
 
 
