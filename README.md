@@ -62,10 +62,11 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 
 
+<br />
 
-<a href="https://vk.com/samirtrillioner">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
+_Contacts:_
+
+
 <a href="https://www.linkedin.com/in/samir-alikperov-7198921a9/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
