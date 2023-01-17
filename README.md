@@ -11,7 +11,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 <br />
 
-⚫ **Languages and Tools:**
+🔘  **Languages and Tools:**
 
 * <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/865/204/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-computer-icons-others-text-rectangle-logo.png"></code>
@@ -31,7 +31,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 <br />
 
 
-⚫ **Projects:**
+🔘  **Projects:**
 > * Excel
 > * SQL
 > * [Tableau](https://public.tableau.com/app/profile/samirtrillioner)
@@ -40,28 +40,28 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 <br />
 
-⚫ **My tasks for the near future:**
+🔘  **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [X] **[Take a course on Data Analyst on Karpov.Courses](https://karpov.courses/analytics)**
+*  ☑️  **[Take a course on Data Analyst on Karpov.Courses](https://karpov.courses/analytics)**
  > * [Сertificate](https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png)
- > * [Projects](https://github.com/samirtrillioner/DA_karpov_corses)
+ > * 🔗[Projects](https://github.com/samirtrillioner/DA_karpov_corses)
 
 * [ ] **[Take a course on Data Engineering on Karpov.Courses](https://karpov.courses/dataengineer)**
  > * Сertificate
- > * [Projects](https://github.com/samirtrillioner/DE_karpov_courses/blob/main/README.md)
+ > * 🔗[Projects](https://github.com/samirtrillioner/DE_karpov_courses/blob/main/README.md)
 
 
 * [ ] **[Take a course on Data Engineering on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)**
- > * [Projects](https://github.com/samirtrillioner/DE_datalearn_course)
+ > * 🔗[Projects](https://github.com/samirtrillioner/DE_datalearn_course)
 
 
 * [ ] **[Take a course on BIDA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)**
  > * Сertificate
- > * Projects
+ > * 🔗Projects
 
 * [ ] **[Take a course on FPWM™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)**
  > * Сertificate
- > * Projects
+ > * 🔗Projects
 
 
 
