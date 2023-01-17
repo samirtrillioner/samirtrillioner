@@ -11,7 +11,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 <br />
 
-**Languages and Tools:**
+⚫ **Languages and Tools:**
 
 * <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/865/204/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-computer-icons-others-text-rectangle-logo.png"></code>
@@ -30,7 +30,17 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 <br />
 
-🚧 **My tasks for the near future:**
+
+⚫ **Projects:**
+> * Excel
+> * SQL
+> * [Tableau](https://public.tableau.com/app/profile/samirtrillioner)
+> * Python
+
+
+<br />
+
+⚫ **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [X] **[Take a course on Data Analyst on Karpov.Courses](https://karpov.courses/analytics)**
  > * [Сertificate](https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png)
@@ -64,12 +74,15 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 <br />
 
-_Contacts:_
 
 
-<a href="https://www.linkedin.com/in/samir-alikperov-7198921a9/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/samirtrillioner">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alikperov-samir/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <a href="https://t.me/samirtrillioner">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram& Badge"/>
+  </a>
+</div>
+
