@@ -59,7 +59,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
  > * Сertificate
  > * 🔗Projects
 
-* [ ] **[Take a course on FPWM™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)**
+* [ ] **[Take a course on FMVA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)**
  > * Сertificate
  > * 🔗Projects
 
