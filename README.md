@@ -32,10 +32,10 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 
 🔘  **Projects:**
-> * Excel
-> * SQL
+> * [Excel](https://github.com/samirtrillioner/samirtrillioner_projects/tree/main/EXCEL)
+> * [SQL](https://github.com/samirtrillioner/samirtrillioner_projects/tree/main/SQL)
 > * [Tableau](https://github.com/samirtrillioner/tableau_project)
-> * Python
+> * [Python](https://github.com/samirtrillioner/samirtrillioner_projects/tree/main/PYTHON)
 
 
 <br />
