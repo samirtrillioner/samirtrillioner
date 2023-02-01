@@ -34,7 +34,7 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 🔘  **Projects:**
 > * Excel
 > * SQL
-> * [Tableau](https://public.tableau.com/app/profile/samirtrillioner)
+> * [Tableau](https://github.com/samirtrillioner/tableau_project)
 > * Python
 
 
