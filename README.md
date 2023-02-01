@@ -40,40 +40,6 @@ I will publish my projects on GitHub and  will be happy to share my ideas, proje
 
 <br />
 
-🔘  **My tasks for the near future:**
-<!-- TODO-IST:START -->
-*  ☑️  **[Take a course on Data Analyst on Karpov.Courses](https://karpov.courses/analytics)**
- > * [Сertificate](https://user-images.githubusercontent.com/103367293/182040608-a3fc85c4-e451-4bfc-8ce2-37b6535885fb.png)
- > * 🔗[Projects](https://github.com/samirtrillioner/DA_karpov_corses)
-
-* [ ] **[Take a course on Data Engineering on Karpov.Courses](https://karpov.courses/dataengineer)**
- > * Сertificate
- > * 🔗[Projects](https://github.com/samirtrillioner/DE_karpov_courses/blob/main/README.md)
-
-
-* [ ] **[Take a course on Data Engineering on DataLearn](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)**
- > * 🔗[Projects](https://github.com/samirtrillioner/DE_datalearn_course)
-
-
-* [ ] **[Take a course on BIDA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)**
- > * Сertificate
- > * 🔗Projects
-
-* [ ] **[Take a course on FMVA™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)**
- > * Сertificate
- > * 🔗Projects
-
-
-
-* [ ] **[Take a course on FPWM™ on Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)**
- > * Сertificate
- > * Projects
-<!-- TODO-IST:END -->
-
-
-
-<br />
-
 
 
 
